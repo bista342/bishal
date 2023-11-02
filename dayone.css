@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,600;0,700;0,800;0,900;1,800&display=swap');
+.top{
+    font-size: 36px;
+    font-weight: 700;
+    background-color: brown;
+    text-transform: uppercase;
+    color:blue
+    text transformation:uppercase
+}
+h2{
+    color: blueviolet;
+    background-color: black;
+}
